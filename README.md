@@ -1,8 +1,4 @@
-### Hi there 👋
-
-![47535337-08039c00-d8b3-11e8-9547-c823ad5242a9](https://user-images.githubusercontent.com/74766186/170636115-041dde05-d88b-4dc2-9952-691c849ee58b.gif)
-
-
+<h1 align="center">Hi, m8!</h1>
 <div id="badges", align="center">
   <a href="https://t.me/mnogo_mango">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
@@ -11,6 +7,15 @@
     <img src="https://img.shields.io/badge/eMail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+
+## About:
+I am python developer and engineer. Seeya later
+
+## Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MnogoMango&theme=slateorange&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MnogoMango&layout=compact&theme=slateorange&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MnogoMango/MnogoMango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
